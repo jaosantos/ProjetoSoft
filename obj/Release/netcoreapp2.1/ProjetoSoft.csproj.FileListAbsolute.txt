@@ -1,0 +1,15 @@
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\bin\Release\netcoreapp2.1\ProjetoSoft.deps.json
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\bin\Release\netcoreapp2.1\ProjetoSoft.runtimeconfig.json
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\bin\Release\netcoreapp2.1\ProjetoSoft.runtimeconfig.dev.json
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\bin\Release\netcoreapp2.1\ProjetoSoft.dll
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\bin\Release\netcoreapp2.1\ProjetoSoft.pdb
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.csprojAssemblyReference.cache
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.csproj.CoreCompileInputs.cache
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.RazorAssemblyInfo.cache
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.RazorAssemblyInfo.cs
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.AssemblyInfoInputs.cache
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.AssemblyInfo.cs
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.RazorTargetAssemblyInfo.cache
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.dll
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\ProjetoSoft.pdb
+C:\Users\JoaoPaulo\Documents\ProjetoSoft\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
